@@ -1,13 +1,13 @@
 # Bootstrap Challenge 
 
-Recreate one of the following pages using Bootstrap. 
+Recreate one of the following pages using Bootstrap: 
 
 * Your linkedin profile page 
 * The Chicago Tribune home page
 * Stack Overflow answer page 
 
 ## Release 0 - Planning: 
-Come up with a plan for how you are going to impliment your solution. How will you split the page up into columns and rows? What Bootstrap classes already exist that will help you create sections on the page? Will you need to add your own styles? What behavior does the page have? Can you recreate that with Bootstrap or will you need to write some custom Javascript? 
+Come up with a plan for how you are going to implement your solution. How will you split the page up into columns and rows? What Bootstrap classes already exist that will help you create sections on the page? Will you need to add your own styles? What behavior does the page have? Can you recreate that with Bootstrap or will you need to write some custom Javascript? 
 
 Try to make Bootstrap work for you as much as possible. Dig into the docs, read a few articles, do some research before you dive into the code. 
 
