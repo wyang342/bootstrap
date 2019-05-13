@@ -17,8 +17,8 @@ Start by writing your HTML file. Think about what tags you'll need. Remember, CS
 
 ## Release 2 - Layout: 
 
-Start positioning your elements using Bootstraps columns and rows. Don't worry about colors and fonts just yet. You will want to think about font-size though as adjusting this can break you layout pretty quickly. 
+Start positioning your elements using Bootstrap's columns and rows. Don't worry about colors and fonts just yet. You will want to think about font-size though as adjusting this can break your layout pretty quickly. 
 
 ## Release 3 - Style: 
 
-Add colors, images, fonts or anything else you want to make your page look as close to original as possible. 
+Add colors, images, fonts or anything else you want to make your page look as close to the original as possible. 
